@@ -1,0 +1,124 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-12-16 17:07:31 #1 server] 
+Server on port 6136 has started by 18480@LAPTOP-RCQI758K
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-12-16 21:39:06 #1 server] 
+Server on port 6136 has started by 19392@LAPTOP-RCQI758K
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-12-16 22:53:51 #1 store] 
+Database 'C:\Users\elsah\Downloads\objectdb-2.9.1\db\odbtest.odb' is opened by 13860@LAPTOP-RCQI758K
+
+[2024-12-16 22:53:51 #2 store] 
+Configuration path: C:\Users\elsah\Downloads\objectdb-2.9.1\objectdb.conf
+
+[2024-12-16 22:53:51 #3 type] 
+Type socialappdatabase.user is not enhanced.
+
+[2024-12-16 22:53:51 #4 type] 
+Type socialappdatabase.Comment is not enhanced.
+
+[2024-12-16 22:53:51 #5 store] 
+Database 'C:\Users\elsah\Downloads\objectdb-2.9.1\db\odbtest.odb' is closed by 13860@LAPTOP-RCQI758K
+
+[2024-12-16 22:53:51 #6 store] 
+Database 'C:\Users\elsah\Downloads\objectdb-2.9.1\db\odbtest.odb' is opened by 13860@LAPTOP-RCQI758K
+
+[2024-12-16 22:53:51 #7 store] 
+Configuration path: C:\Users\elsah\Downloads\objectdb-2.9.1\objectdb.conf
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-12-16 22:54:34 #1 store] 
+Database 'C:\Users\elsah\Downloads\objectdb-2.9.1\db\odbtest.odb' is opened by 5988@LAPTOP-RCQI758K
+
+[2024-12-16 22:54:34 #2 store] 
+Configuration path: C:\Users\elsah\Downloads\objectdb-2.9.1\objectdb.conf
+
+[2024-12-16 22:54:35 #3 type] 
+Type socialappdatabase.user is not enhanced.
+
+[2024-12-16 22:54:35 #4 type] 
+Type socialappdatabase.Comment is not enhanced.
+
+[2024-12-16 22:54:35 #5 type] 
+Type socialappdatabase.Post is not enhanced.
+
+[2024-12-16 22:54:35 #6 store] 
+Database 'C:\Users\elsah\Downloads\objectdb-2.9.1\db\odbtest.odb' is closed by 5988@LAPTOP-RCQI758K
+
+[2024-12-16 22:54:35 #7 store] 
+Database 'C:\Users\elsah\Downloads\objectdb-2.9.1\db\odbtest.odb' is opened by 5988@LAPTOP-RCQI758K
+
+[2024-12-16 22:54:35 #8 store] 
+Configuration path: C:\Users\elsah\Downloads\objectdb-2.9.1\objectdb.conf
+
+[2024-12-16 22:54:35 #9 store] 
+Database 'C:\Users\elsah\Downloads\objectdb-2.9.1\db\odbtest.odb' is closed by 5988@LAPTOP-RCQI758K
+
+[2024-12-16 22:54:35 #10 store] 
+Database 'C:\Users\elsah\Downloads\objectdb-2.9.1\db\odbtest.odb' is opened by 5988@LAPTOP-RCQI758K
+
+[2024-12-16 22:54:35 #11 store] 
+Configuration path: C:\Users\elsah\Downloads\objectdb-2.9.1\objectdb.conf
+
+[2024-12-16 22:54:35 #12 store] 
+Database 'C:\Users\elsah\Downloads\objectdb-2.9.1\db\odbtest.odb' is closed by 5988@LAPTOP-RCQI758K
+
+[2024-12-16 22:54:35 #13 store] 
+Database 'C:\Users\elsah\Downloads\objectdb-2.9.1\db\odbtest.odb' is opened by 5988@LAPTOP-RCQI758K
+
+[2024-12-16 22:54:35 #14 store] 
+Configuration path: C:\Users\elsah\Downloads\objectdb-2.9.1\objectdb.conf
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-12-16 22:55:15 #1 store] 
+Database 'C:\Users\elsah\Downloads\objectdb-2.9.1\db\odbtest.odb' has been recovered (tr. 9-10)
+
+[2024-12-16 22:55:15 #2 store] 
+Database 'C:\Users\elsah\Downloads\objectdb-2.9.1\db\odbtest.odb' is opened by 9228@LAPTOP-RCQI758K
+
+[2024-12-16 22:55:15 #3 store] 
+Configuration path: C:\Users\elsah\Downloads\objectdb-2.9.1\objectdb.conf
+
+[2024-12-16 22:55:15 #4 type] 
+Type socialappdatabase.user is not enhanced.
+
+[2024-12-16 22:55:15 #5 type] 
+Type socialappdatabase.Comment is not enhanced.
+
+[2024-12-16 22:55:15 #6 type] 
+Type socialappdatabase.Post is not enhanced.
+
+[2024-12-16 22:55:15 #7 store] 
+Database 'C:\Users\elsah\Downloads\objectdb-2.9.1\db\odbtest.odb' is closed by 9228@LAPTOP-RCQI758K
+
+[2024-12-16 22:55:15 #8 store] 
+Database 'C:\Users\elsah\Downloads\objectdb-2.9.1\db\odbtest.odb' is opened by 9228@LAPTOP-RCQI758K
+
+[2024-12-16 22:55:15 #9 store] 
+Configuration path: C:\Users\elsah\Downloads\objectdb-2.9.1\objectdb.conf
+
+[2024-12-16 22:55:15 #10 store] 
+Database 'C:\Users\elsah\Downloads\objectdb-2.9.1\db\odbtest.odb' is closed by 9228@LAPTOP-RCQI758K
+
+[2024-12-16 22:55:15 #11 store] 
+Database 'C:\Users\elsah\Downloads\objectdb-2.9.1\db\odbtest.odb' is opened by 9228@LAPTOP-RCQI758K
+
+[2024-12-16 22:55:15 #12 store] 
+Configuration path: C:\Users\elsah\Downloads\objectdb-2.9.1\objectdb.conf
+
+[2024-12-16 22:55:15 #13 store] 
+Database 'C:\Users\elsah\Downloads\objectdb-2.9.1\db\odbtest.odb' is closed by 9228@LAPTOP-RCQI758K
+
+[2024-12-16 22:55:15 #14 store] 
+Database 'C:\Users\elsah\Downloads\objectdb-2.9.1\db\odbtest.odb' is opened by 9228@LAPTOP-RCQI758K
+
+[2024-12-16 22:55:15 #15 store] 
+Configuration path: C:\Users\elsah\Downloads\objectdb-2.9.1\objectdb.conf
+

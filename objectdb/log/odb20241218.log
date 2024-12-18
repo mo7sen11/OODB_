@@ -1,0 +1,855 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-12-18 13:30:43 #1 store] 
+Database 'C:\Users\elsah\Desktop\SocialApp\objectdb\db\odbtest.odb' is opened by 7224@LAPTOP-RCQI758K
+
+[2024-12-18 13:30:43 #2 store] 
+Configuration path: C:\Users\elsah\Desktop\SocialApp\objectdb\objectdb.conf
+
+[2024-12-18 13:30:43 #3 type] 
+Type social.user is not enhanced.
+
+[2024-12-18 13:30:43 #4 type] 
+Type social.Comment is not enhanced.
+
+[2024-12-18 13:30:43 #5 type] 
+Type social.Post is not enhanced.
+
+[2024-12-18 13:30:43 #6 store] 
+Database 'C:\Users\elsah\Desktop\SocialApp\objectdb\db\odbtest.odb' is closed by 7224@LAPTOP-RCQI758K
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-12-18 13:33:39 #1 store] 
+Database 'C:\Users\elsah\Desktop\SocialApp\objectdb\db\odbtest.odb' is opened by 14308@LAPTOP-RCQI758K
+
+[2024-12-18 13:33:39 #2 store] 
+Configuration path: C:\Users\elsah\Desktop\SocialApp\objectdb\objectdb.conf
+
+[2024-12-18 13:33:39 #3 type] 
+Type social.user is not enhanced.
+
+[2024-12-18 13:33:39 #4 type] 
+Type social.Comment is not enhanced.
+
+[2024-12-18 13:33:39 #5 type] 
+Type social.Post is not enhanced.
+
+[2024-12-18 13:33:39 #6 store] 
+Database 'C:\Users\elsah\Desktop\SocialApp\objectdb\db\odbtest.odb' is closed by 14308@LAPTOP-RCQI758K
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-12-18 13:34:11 #1 store] 
+Database 'C:\Users\elsah\Desktop\SocialApp\objectdb\db\odbtest.odb' is opened by 1872@LAPTOP-RCQI758K
+
+[2024-12-18 13:34:11 #2 store] 
+Configuration path: C:\Users\elsah\Desktop\SocialApp\objectdb\objectdb.conf
+
+[2024-12-18 13:34:11 #3 type] 
+Type social.user is not enhanced.
+
+[2024-12-18 13:34:11 #4 type] 
+Type social.Comment is not enhanced.
+
+[2024-12-18 13:34:11 #5 type] 
+Type social.Post is not enhanced.
+
+[2024-12-18 13:34:11 #6 store] 
+Database 'C:\Users\elsah\Desktop\SocialApp\objectdb\db\odbtest.odb' is closed by 1872@LAPTOP-RCQI758K
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-12-18 13:39:51 #1 store] 
+Database 'C:\Users\elsah\Desktop\SocialApp\objectdb\db\odbtest.odb' is opened by 13760@LAPTOP-RCQI758K
+
+[2024-12-18 13:39:51 #2 store] 
+Configuration path: C:\Users\elsah\Desktop\SocialApp\objectdb\objectdb.conf
+
+[2024-12-18 13:39:52 #3 type] 
+Type social.user is not enhanced.
+
+[2024-12-18 13:39:52 #4 type] 
+Type social.Comment is not enhanced.
+
+[2024-12-18 13:39:52 #5 type] 
+Type social.Post is not enhanced.
+
+[2024-12-18 13:39:52 #6 store] 
+Database 'C:\Users\elsah\Desktop\SocialApp\objectdb\db\odbtest.odb' is closed by 13760@LAPTOP-RCQI758K
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-12-18 13:41:03 #1 store] 
+Database 'C:\Users\elsah\Desktop\SocialApp\objectdb\db\odbtest.odb' is opened by 20048@LAPTOP-RCQI758K
+
+[2024-12-18 13:41:03 #2 store] 
+Configuration path: C:\Users\elsah\Desktop\SocialApp\objectdb\objectdb.conf
+
+[2024-12-18 13:41:03 #3 type] 
+Type social.user is not enhanced.
+
+[2024-12-18 13:41:03 #4 type] 
+Type social.Comment is not enhanced.
+
+[2024-12-18 13:41:03 #5 type] 
+Type social.Post is not enhanced.
+
+[2024-12-18 13:41:03 #6 store] 
+Database 'C:\Users\elsah\Desktop\SocialApp\objectdb\db\odbtest.odb' is closed by 20048@LAPTOP-RCQI758K
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-12-18 13:41:35 #1 store] 
+Database 'C:\Users\elsah\Desktop\SocialApp\objectdb\db\odbtest.odb' is opened by 14304@LAPTOP-RCQI758K
+
+[2024-12-18 13:41:35 #2 store] 
+Configuration path: C:\Users\elsah\Desktop\SocialApp\objectdb\objectdb.conf
+
+[2024-12-18 13:42:30 #3 store] 
+Database 'C:\Users\elsah\Desktop\SocialApp\objectdb\db\odbtest.odb' is closed by 14304@LAPTOP-RCQI758K
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-12-18 13:42:35 #1 store] 
+Database 'C:\Users\elsah\Desktop\SocialApp\objectdb\db\odbtest.odb' is opened by 8560@LAPTOP-RCQI758K
+
+[2024-12-18 13:42:35 #2 store] 
+Configuration path: C:\Users\elsah\Desktop\SocialApp\objectdb\objectdb.conf
+
+[2024-12-18 13:43:16 #3 store] 
+Database 'C:\Users\elsah\Desktop\SocialApp\objectdb\db\odbtest.odb' is closed by 8560@LAPTOP-RCQI758K
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-12-18 13:43:22 #1 store] 
+Database 'C:\Users\elsah\Desktop\SocialApp\objectdb\db\odbtest.odb' is opened by 21304@LAPTOP-RCQI758K
+
+[2024-12-18 13:43:22 #2 store] 
+Configuration path: C:\Users\elsah\Desktop\SocialApp\objectdb\objectdb.conf
+
+[2024-12-18 13:43:48 #3 store] 
+Database 'C:\Users\elsah\Desktop\SocialApp\objectdb\db\odbtest.odb' is closed by 21304@LAPTOP-RCQI758K
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-12-18 13:43:57 #1 store] 
+Database 'C:\Users\elsah\Desktop\SocialApp\objectdb\db\odbtest.odb' is opened by 19532@LAPTOP-RCQI758K
+
+[2024-12-18 13:43:57 #2 store] 
+Configuration path: C:\Users\elsah\Desktop\SocialApp\objectdb\objectdb.conf
+
+[2024-12-18 13:43:58 #3 type] 
+Type social.Comment is not enhanced.
+
+[2024-12-18 13:43:58 #4 type] 
+Type social.Post is not enhanced.
+
+[2024-12-18 13:43:58 #5 type] 
+Type social.user is not enhanced.
+
+[2024-12-18 13:43:58 #6 store] 
+Database 'C:\Users\elsah\Desktop\SocialApp\objectdb\db\odbtest.odb' is closed by 19532@LAPTOP-RCQI758K
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-12-18 13:44:07 #1 store] 
+Database 'C:\Users\elsah\Desktop\SocialApp\objectdb\db\odbtest.odb' is opened by 8996@LAPTOP-RCQI758K
+
+[2024-12-18 13:44:07 #2 store] 
+Configuration path: C:\Users\elsah\Desktop\SocialApp\objectdb\objectdb.conf
+
+[2024-12-18 13:45:40 #3 store] 
+Database 'C:\Users\elsah\Desktop\SocialApp\objectdb\db\odbtest.odb' is closed by 8996@LAPTOP-RCQI758K
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-12-18 13:45:49 #1 store] 
+Database 'C:\Users\elsah\Desktop\SocialApp\objectdb\db\odbtest.odb' is opened by 17060@LAPTOP-RCQI758K
+
+[2024-12-18 13:45:49 #2 store] 
+Configuration path: C:\Users\elsah\Desktop\SocialApp\objectdb\objectdb.conf
+
+[2024-12-18 13:48:31 #3 store] 
+Database 'C:\Users\elsah\Desktop\SocialApp\objectdb\db\odbtest.odb' is closed by 17060@LAPTOP-RCQI758K
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-12-18 13:52:40 #1 store] 
+Database 'C:\Users\elsah\Desktop\SocialApp\objectdb\db\odbtest.odb' is opened by 11380@LAPTOP-RCQI758K
+
+[2024-12-18 13:52:40 #2 store] 
+Configuration path: C:\Users\elsah\Desktop\SocialApp\objectdb\objectdb.conf
+
+[2024-12-18 13:52:40 #3 type] 
+Type social.Comment is not enhanced.
+
+[2024-12-18 13:52:40 #4 type] 
+Type social.Post is not enhanced.
+
+[2024-12-18 13:52:40 #5 type] 
+Type social.user is not enhanced.
+
+[2024-12-18 13:52:40 #6 store] 
+Database 'C:\Users\elsah\Desktop\SocialApp\objectdb\db\odbtest.odb' is closed by 11380@LAPTOP-RCQI758K
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-12-18 13:54:12 #1 store] 
+Database 'C:\Users\elsah\Desktop\SocialApp\objectdb\db\odbtest.odb' is opened by 18772@LAPTOP-RCQI758K
+
+[2024-12-18 13:54:12 #2 store] 
+Configuration path: C:\Users\elsah\Desktop\SocialApp\objectdb\objectdb.conf
+
+[2024-12-18 13:58:17 #3 store] 
+Database 'C:\Users\elsah\Desktop\SocialApp\objectdb\db\odbtest.odb' is closed by 18772@LAPTOP-RCQI758K
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-12-18 14:15:20 #1 store] 
+Database 'C:\Users\elsah\Desktop\SocialApp\objectdb\db\odbtest.odb' is opened by 5576@LAPTOP-RCQI758K
+
+[2024-12-18 14:15:20 #2 store] 
+Configuration path: C:\Users\elsah\Desktop\SocialApp\objectdb\objectdb.conf
+
+[2024-12-18 14:15:20 #3 type] 
+Type social.Comment is not enhanced.
+
+[2024-12-18 14:15:20 #4 type] 
+Type social.Post is not enhanced.
+
+[2024-12-18 14:15:20 #5 type] 
+Type social.user is not enhanced.
+
+[2024-12-18 14:15:28 #6 store] 
+Database 'C:\Users\elsah\Desktop\SocialApp\objectdb\db\odbtest.odb' is closed by 5576@LAPTOP-RCQI758K
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-12-18 14:15:32 #1 store] 
+Database 'C:\Users\elsah\Desktop\SocialApp\objectdb\db\odbtest.odb' is opened by 20704@LAPTOP-RCQI758K
+
+[2024-12-18 14:15:32 #2 store] 
+Configuration path: C:\Users\elsah\Desktop\SocialApp\objectdb\objectdb.conf
+
+[2024-12-18 14:15:32 #3 type] 
+Type social.Comment is not enhanced.
+
+[2024-12-18 14:15:32 #4 type] 
+Type social.Post is not enhanced.
+
+[2024-12-18 14:15:32 #5 type] 
+Type social.user is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-12-18 14:15:42 #1 explorer] 
+[ObjectDB 2.9.1] javax.persistence.PersistenceException
+Attempt to open a database file 'C:\Users\elsah\Desktop\SocialApp\objectdb\db\odbtest.odb' that is currently in use by another process (error 141)
+	at com.objectdb.Explorer$1.run(Explorer.java:57)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:318)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:773)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:720)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:714)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:400)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:87)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:742)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+Caused by: com.objectdb.o.UserException: Attempt to open a database file 'C:\Users\elsah\Desktop\SocialApp\objectdb\db\odbtest.odb' that is currently in use by another process
+	at com.objectdb.o.MSG.a(MSG.java:64)
+	at com.objectdb.o.LFL.J(LFL.java:947)
+	at com.objectdb.o.LFL.x(LFL.java:904)
+	at com.objectdb.o.LFL.x(LFL.java:814)
+	at com.objectdb.o.DFL.<init>(DFL.java:241)
+	at com.objectdb.o.DMG.<init>(DMG.java:27)
+	at com.objectdb.o.MST.<init>(MST.java:127)
+	at com.objectdb.o.MST.ap(MST.java:109)
+	at com.objectdb.o.MSF.Z0(MSF.java:190)
+	at com.objectdb.o.OMF.s(OMF.java:816)
+	at com.objectdb.jpa.EMF.s(EMF.java:130)
+	at com.objectdb.o.OMF.x(OMF.java:722)
+	at com.objectdb.jpa.EMF.createEntityManager(EMF.java:149)
+	... 16 more
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-12-18 14:20:43 #1 store] 
+Database 'C:\Users\elsah\Desktop\SocialApp\objectdb\db\odbtest.odb' is opened by 14440@LAPTOP-RCQI758K
+
+[2024-12-18 14:20:43 #2 store] 
+Configuration path: C:\Users\elsah\Desktop\SocialApp\objectdb\objectdb.conf
+
+[2024-12-18 14:21:09 #3 store] 
+Database 'C:\Users\elsah\Desktop\SocialApp\objectdb\db\odbtest.odb' is closed by 14440@LAPTOP-RCQI758K
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-12-18 14:21:12 #1 store] 
+Database 'C:\Users\elsah\Desktop\SocialApp\objectdb\db\odbtest.odb' is opened by 20304@LAPTOP-RCQI758K
+
+[2024-12-18 14:21:12 #2 store] 
+Configuration path: C:\Users\elsah\Desktop\SocialApp\objectdb\objectdb.conf
+
+[2024-12-18 14:21:12 #3 type] 
+Type social.Comment is not enhanced.
+
+[2024-12-18 14:21:12 #4 type] 
+Type social.Post is not enhanced.
+
+[2024-12-18 14:21:12 #5 type] 
+Type social.user is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-12-18 14:25:53 #1 store] 
+Database 'C:\Users\elsah\Desktop\SocialApp\objectdb\db\odbtest.odb' is opened by 14288@LAPTOP-RCQI758K
+
+[2024-12-18 14:25:53 #2 store] 
+Configuration path: C:\Users\elsah\Desktop\SocialApp\objectdb\objectdb.conf
+
+[2024-12-18 14:25:53 #3 type] 
+Type social.Comment is not enhanced.
+
+[2024-12-18 14:25:53 #4 type] 
+Type social.Post is not enhanced.
+
+[2024-12-18 14:25:54 #5 type] 
+Type social.user is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-12-18 14:29:41 #1 store] 
+Database 'C:\Users\elsah\Desktop\SocialApp\objectdb\db\odbtest.odb' is opened by 20676@LAPTOP-RCQI758K
+
+[2024-12-18 14:29:41 #2 store] 
+Configuration path: C:\Users\elsah\Desktop\SocialApp\objectdb\objectdb.conf
+
+[2024-12-18 14:29:41 #3 type] 
+Type social.Comment is not enhanced.
+
+[2024-12-18 14:29:41 #4 type] 
+Type social.Post is not enhanced.
+
+[2024-12-18 14:29:41 #5 type] 
+Type social.user is not enhanced.
+
+[2024-12-18 14:29:41 #6 store] 
+Database 'C:\Users\elsah\Desktop\SocialApp\objectdb\db\odbtest.odb' is closed by 20676@LAPTOP-RCQI758K
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-12-18 14:32:10 #1 store] 
+Database 'C:\Users\elsah\Desktop\SocialApp\objectdb\db\odbtest.odb' is opened by 13500@LAPTOP-RCQI758K
+
+[2024-12-18 14:32:10 #2 store] 
+Configuration path: C:\Users\elsah\Desktop\SocialApp\objectdb\objectdb.conf
+
+[2024-12-18 14:32:30 #3 store] 
+Database 'C:\Users\elsah\Desktop\SocialApp\objectdb\db\odbtest.odb' is closed by 13500@LAPTOP-RCQI758K
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-12-18 14:32:36 #1 store] 
+Database 'C:\Users\elsah\Desktop\SocialApp\objectdb\db\odbtest.odb' is opened by 4024@LAPTOP-RCQI758K
+
+[2024-12-18 14:32:36 #2 store] 
+Configuration path: C:\Users\elsah\Desktop\SocialApp\objectdb\objectdb.conf
+
+[2024-12-18 14:32:36 #3 type] 
+Type social.Comment is not enhanced.
+
+[2024-12-18 14:32:36 #4 type] 
+Type social.Post is not enhanced.
+
+[2024-12-18 14:32:36 #5 type] 
+Type social.user is not enhanced.
+
+[2024-12-18 14:32:36 #6 store] 
+Database 'C:\Users\elsah\Desktop\SocialApp\objectdb\db\odbtest.odb' is closed by 4024@LAPTOP-RCQI758K
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-12-18 14:33:04 #1 store] 
+Database 'C:\Users\elsah\Desktop\SocialApp\objectdb\db\odbtest.odb' is opened by 19460@LAPTOP-RCQI758K
+
+[2024-12-18 14:33:04 #2 store] 
+Configuration path: C:\Users\elsah\Desktop\SocialApp\objectdb\objectdb.conf
+
+[2024-12-18 14:33:04 #3 type] 
+Type social.Comment is not enhanced.
+
+[2024-12-18 14:33:04 #4 type] 
+Type social.Post is not enhanced.
+
+[2024-12-18 14:33:04 #5 type] 
+Type social.user is not enhanced.
+
+[2024-12-18 14:33:04 #6 store] 
+Database 'C:\Users\elsah\Desktop\SocialApp\objectdb\db\odbtest.odb' is closed by 19460@LAPTOP-RCQI758K
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-12-18 14:33:06 #1 store] 
+Database 'C:\Users\elsah\Desktop\SocialApp\objectdb\db\odbtest.odb' is opened by 15576@LAPTOP-RCQI758K
+
+[2024-12-18 14:33:06 #2 store] 
+Configuration path: C:\Users\elsah\Desktop\SocialApp\objectdb\objectdb.conf
+
+[2024-12-18 14:33:06 #3 type] 
+Type social.Comment is not enhanced.
+
+[2024-12-18 14:33:06 #4 type] 
+Type social.Post is not enhanced.
+
+[2024-12-18 14:33:07 #5 type] 
+Type social.user is not enhanced.
+
+[2024-12-18 14:33:07 #6 store] 
+Database 'C:\Users\elsah\Desktop\SocialApp\objectdb\db\odbtest.odb' is closed by 15576@LAPTOP-RCQI758K
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-12-18 14:33:13 #1 store] 
+Database 'C:\Users\elsah\Desktop\SocialApp\objectdb\db\odbtest.odb' is opened by 10096@LAPTOP-RCQI758K
+
+[2024-12-18 14:33:13 #2 store] 
+Configuration path: C:\Users\elsah\Desktop\SocialApp\objectdb\objectdb.conf
+
+[2024-12-18 14:33:13 #3 type] 
+Type social.Comment is not enhanced.
+
+[2024-12-18 14:33:13 #4 type] 
+Type social.Post is not enhanced.
+
+[2024-12-18 14:33:13 #5 type] 
+Type social.user is not enhanced.
+
+[2024-12-18 14:33:13 #6 store] 
+Database 'C:\Users\elsah\Desktop\SocialApp\objectdb\db\odbtest.odb' is closed by 10096@LAPTOP-RCQI758K
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-12-18 20:41:44 #1 store] 
+Database 'C:\Users\elsah\Desktop\SocialApp\objectdb\db\odbtest.odb' is opened by 6948@LAPTOP-RCQI758K
+
+[2024-12-18 20:41:44 #2 store] 
+Configuration path: C:\Users\elsah\Desktop\SocialApp\objectdb\objectdb.conf
+
+[2024-12-18 20:42:24 #3 store] 
+Database 'C:\Users\elsah\Desktop\SocialApp\objectdb\db\odbtest.odb' is closed by 6948@LAPTOP-RCQI758K
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-12-18 20:43:20 #1 store] 
+Database 'C:\Users\elsah\Desktop\SocialApp\objectdb\db\odbtest.odb' is opened by 8712@LAPTOP-RCQI758K
+
+[2024-12-18 20:43:20 #2 store] 
+Configuration path: C:\Users\elsah\Desktop\SocialApp\objectdb\objectdb.conf
+
+[2024-12-18 20:45:21 #3 store] 
+Database 'C:\Users\elsah\Desktop\SocialApp\objectdb\db\odbtest.odb' is closed by 8712@LAPTOP-RCQI758K
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-12-18 20:55:38 #1 store] 
+Database 'C:\Users\elsah\Desktop\SocialApp\objectdb\db\odbtest.odb' is opened by 15064@LAPTOP-RCQI758K
+
+[2024-12-18 20:55:38 #2 store] 
+Configuration path: C:\Users\elsah\Desktop\SocialApp\objectdb\objectdb.conf
+
+[2024-12-18 20:55:38 #3 type] 
+Type social.Comment is not enhanced.
+
+[2024-12-18 20:55:38 #4 type] 
+Type social.Post is not enhanced.
+
+[2024-12-18 20:55:38 #5 type] 
+Type social.user is not enhanced.
+
+[2024-12-18 20:55:39 #6 store] 
+Database 'C:\Users\elsah\Desktop\SocialApp\objectdb\db\odbtest.odb' is closed by 15064@LAPTOP-RCQI758K
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-12-18 20:55:50 #1 store] 
+Database 'C:\Users\elsah\Desktop\SocialApp\objectdb\db\odbtest.odb' is opened by 1240@LAPTOP-RCQI758K
+
+[2024-12-18 20:55:50 #2 store] 
+Configuration path: C:\Users\elsah\Desktop\SocialApp\objectdb\objectdb.conf
+
+[2024-12-18 20:55:50 #3 type] 
+Type social.Comment is not enhanced.
+
+[2024-12-18 20:55:50 #4 type] 
+Type social.Post is not enhanced.
+
+[2024-12-18 20:55:50 #5 type] 
+Type social.user is not enhanced.
+
+[2024-12-18 20:55:50 #6 store] 
+Database 'C:\Users\elsah\Desktop\SocialApp\objectdb\db\odbtest.odb' is closed by 1240@LAPTOP-RCQI758K
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-12-18 21:00:38 #1 store] 
+Database 'C:\Users\elsah\Desktop\SocialApp\objectdb\db\odbtest.odb' is opened by 15032@LAPTOP-RCQI758K
+
+[2024-12-18 21:00:38 #2 store] 
+Configuration path: C:\Users\elsah\Desktop\SocialApp\objectdb\objectdb.conf
+
+[2024-12-18 21:00:38 #3 type] 
+Type social.Comment is not enhanced.
+
+[2024-12-18 21:00:38 #4 type] 
+Type social.Post is not enhanced.
+
+[2024-12-18 21:00:38 #5 type] 
+Type social.user is not enhanced.
+
+[2024-12-18 21:00:38 #6 store] 
+Database 'C:\Users\elsah\Desktop\SocialApp\objectdb\db\odbtest.odb' is closed by 15032@LAPTOP-RCQI758K
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-12-18 21:25:14 #1 store] 
+Database 'C:\Users\elsah\Desktop\SocialApp\objectdb\db\odbtest.odb' is opened by 796@LAPTOP-RCQI758K
+
+[2024-12-18 21:25:14 #2 store] 
+Configuration path: C:\Users\elsah\Desktop\SocialApp\objectdb\objectdb.conf
+
+[2024-12-18 21:25:14 #3 type] 
+Type social.Comment is not enhanced.
+
+[2024-12-18 21:25:14 #4 type] 
+Type social.Post is not enhanced.
+
+[2024-12-18 21:25:14 #5 type] 
+Type social.user is not enhanced.
+
+[2024-12-18 21:25:14 #6 store] 
+Database 'C:\Users\elsah\Desktop\SocialApp\objectdb\db\odbtest.odb' is closed by 796@LAPTOP-RCQI758K
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-12-18 21:29:16 #1 store] 
+Database 'C:\Users\elsah\Desktop\SocialApp\objectdb\db\odbtest.odb' is opened by 2020@LAPTOP-RCQI758K
+
+[2024-12-18 21:29:16 #2 store] 
+Configuration path: C:\Users\elsah\Desktop\SocialApp\objectdb\objectdb.conf
+
+[2024-12-18 21:29:16 #3 type] 
+Type social.Comment is not enhanced.
+
+[2024-12-18 21:29:16 #4 type] 
+Type social.Post is not enhanced.
+
+[2024-12-18 21:29:16 #5 type] 
+Type social.user is not enhanced.
+
+[2024-12-18 21:29:16 #6 store] 
+Database 'C:\Users\elsah\Desktop\SocialApp\objectdb\db\odbtest.odb' is closed by 2020@LAPTOP-RCQI758K
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-12-18 21:30:09 #1 store] 
+Database 'C:\Users\elsah\Desktop\SocialApp\objectdb\db\odbtest.odb' is opened by 9148@LAPTOP-RCQI758K
+
+[2024-12-18 21:30:09 #2 store] 
+Configuration path: C:\Users\elsah\Desktop\SocialApp\objectdb\objectdb.conf
+
+[2024-12-18 21:30:09 #3 type] 
+Type social.Comment is not enhanced.
+
+[2024-12-18 21:30:09 #4 type] 
+Type social.Post is not enhanced.
+
+[2024-12-18 21:30:09 #5 type] 
+Type social.user is not enhanced.
+
+[2024-12-18 21:30:09 #6 store] 
+Database 'C:\Users\elsah\Desktop\SocialApp\objectdb\db\odbtest.odb' is closed by 9148@LAPTOP-RCQI758K
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-12-18 21:31:14 #1 store] 
+Database 'C:\Users\elsah\Desktop\SocialApp\objectdb\db\odbtest.odb' is opened by 14008@LAPTOP-RCQI758K
+
+[2024-12-18 21:31:14 #2 store] 
+Configuration path: C:\Users\elsah\Desktop\SocialApp\objectdb\objectdb.conf
+
+[2024-12-18 21:31:14 #3 type] 
+Type social.Comment is not enhanced.
+
+[2024-12-18 21:31:14 #4 type] 
+Type social.Post is not enhanced.
+
+[2024-12-18 21:31:14 #5 type] 
+Type social.user is not enhanced.
+
+[2024-12-18 21:31:14 #6 store] 
+Database 'C:\Users\elsah\Desktop\SocialApp\objectdb\db\odbtest.odb' is closed by 14008@LAPTOP-RCQI758K
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-12-18 21:34:24 #1 store] 
+Database 'C:\Users\elsah\Desktop\SocialApp\objectdb\db\odbtest.odb' is opened by 11504@LAPTOP-RCQI758K
+
+[2024-12-18 21:34:24 #2 store] 
+Configuration path: C:\Users\elsah\Desktop\SocialApp\objectdb\objectdb.conf
+
+[2024-12-18 21:34:24 #3 type] 
+Type social.Comment is not enhanced.
+
+[2024-12-18 21:34:24 #4 type] 
+Type social.Post is not enhanced.
+
+[2024-12-18 21:34:24 #5 type] 
+Type social.user is not enhanced.
+
+[2024-12-18 21:34:24 #6 store] 
+Database 'C:\Users\elsah\Desktop\SocialApp\objectdb\db\odbtest.odb' is closed by 11504@LAPTOP-RCQI758K
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-12-18 21:35:26 #1 store] 
+Database 'C:\Users\elsah\Desktop\SocialApp\objectdb\db\odbtest.odb' is opened by 21448@LAPTOP-RCQI758K
+
+[2024-12-18 21:35:26 #2 store] 
+Configuration path: C:\Users\elsah\Desktop\SocialApp\objectdb\objectdb.conf
+
+[2024-12-18 21:35:26 #3 type] 
+Type social.Comment is not enhanced.
+
+[2024-12-18 21:35:26 #4 type] 
+Type social.Post is not enhanced.
+
+[2024-12-18 21:35:26 #5 type] 
+Type social.user is not enhanced.
+
+[2024-12-18 21:35:26 #6 store] 
+Database 'C:\Users\elsah\Desktop\SocialApp\objectdb\db\odbtest.odb' is closed by 21448@LAPTOP-RCQI758K
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-12-18 21:35:33 #1 store] 
+Database 'C:\Users\elsah\Desktop\SocialApp\objectdb\db\odbtest.odb' is opened by 13864@LAPTOP-RCQI758K
+
+[2024-12-18 21:35:33 #2 store] 
+Configuration path: C:\Users\elsah\Desktop\SocialApp\objectdb\objectdb.conf
+
+[2024-12-18 21:35:33 #3 type] 
+Type social.Comment is not enhanced.
+
+[2024-12-18 21:35:33 #4 type] 
+Type social.Post is not enhanced.
+
+[2024-12-18 21:35:33 #5 type] 
+Type social.user is not enhanced.
+
+[2024-12-18 21:35:33 #6 store] 
+Database 'C:\Users\elsah\Desktop\SocialApp\objectdb\db\odbtest.odb' is closed by 13864@LAPTOP-RCQI758K
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-12-18 21:36:22 #1 store] 
+Database 'C:\Users\elsah\Desktop\SocialApp\objectdb\db\odbtest.odb' is opened by 8928@LAPTOP-RCQI758K
+
+[2024-12-18 21:36:22 #2 store] 
+Configuration path: C:\Users\elsah\Desktop\SocialApp\objectdb\objectdb.conf
+
+[2024-12-18 21:36:22 #3 type] 
+Type social.Comment is not enhanced.
+
+[2024-12-18 21:36:22 #4 type] 
+Type social.Post is not enhanced.
+
+[2024-12-18 21:36:22 #5 type] 
+Type social.user is not enhanced.
+
+[2024-12-18 21:36:22 #6 store] 
+Database 'C:\Users\elsah\Desktop\SocialApp\objectdb\db\odbtest.odb' is closed by 8928@LAPTOP-RCQI758K
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-12-18 21:44:06 #1 store] 
+Database 'C:\Users\elsah\Desktop\SocialApp\objectdb\db\odbtest.odb' is opened by 9136@LAPTOP-RCQI758K
+
+[2024-12-18 21:44:06 #2 store] 
+Configuration path: C:\Users\elsah\Desktop\SocialApp\objectdb\objectdb.conf
+
+[2024-12-18 21:44:06 #3 type] 
+Type social.Comment is not enhanced.
+
+[2024-12-18 21:44:06 #4 type] 
+Type social.Post is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-12-18 21:45:06 #1 store] 
+Database 'C:\Users\elsah\Desktop\SocialApp\objectdb\db\odbtest.odb' is opened by 14208@LAPTOP-RCQI758K
+
+[2024-12-18 21:45:06 #2 store] 
+Configuration path: C:\Users\elsah\Desktop\SocialApp\objectdb\objectdb.conf
+
+[2024-12-18 21:45:06 #3 type] 
+Type social.Comment is not enhanced.
+
+[2024-12-18 21:45:06 #4 type] 
+Type social.Post is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-12-18 21:48:49 #1 store] 
+Database 'C:\Users\elsah\Desktop\SocialApp\objectdb\db\odbtest.odb' is opened by 5736@LAPTOP-RCQI758K
+
+[2024-12-18 21:48:49 #2 store] 
+Configuration path: C:\Users\elsah\Desktop\SocialApp\objectdb\objectdb.conf
+
+[2024-12-18 21:48:49 #3 type] 
+Type social.Comment is not enhanced.
+
+[2024-12-18 21:48:49 #4 type] 
+Type social.Post is not enhanced.
+
+[2024-12-18 21:48:49 #5 type] 
+Type social.user is not enhanced.
+
+[2024-12-18 21:48:49 #6 store] 
+Database 'C:\Users\elsah\Desktop\SocialApp\objectdb\db\odbtest.odb' is closed by 5736@LAPTOP-RCQI758K
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-12-18 21:50:02 #1 store] 
+Database 'C:\Users\elsah\Desktop\SocialApp\objectdb\db\odbtest.odb' is opened by 20440@LAPTOP-RCQI758K
+
+[2024-12-18 21:50:02 #2 store] 
+Configuration path: C:\Users\elsah\Desktop\SocialApp\objectdb\objectdb.conf
+
+[2024-12-18 21:50:02 #3 type] 
+Type social.Comment is not enhanced.
+
+[2024-12-18 21:50:02 #4 type] 
+Type social.Post is not enhanced.
+
+[2024-12-18 21:50:02 #5 type] 
+Type social.user is not enhanced.
+
+[2024-12-18 21:50:02 #6 store] 
+Database 'C:\Users\elsah\Desktop\SocialApp\objectdb\db\odbtest.odb' is closed by 20440@LAPTOP-RCQI758K
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-12-18 21:51:05 #1 store] 
+Database 'C:\Users\elsah\Desktop\SocialApp\objectdb\db\odbtest.odb' is opened by 2084@LAPTOP-RCQI758K
+
+[2024-12-18 21:51:05 #2 store] 
+Configuration path: C:\Users\elsah\Desktop\SocialApp\objectdb\objectdb.conf
+
+[2024-12-18 21:51:05 #3 type] 
+Type social.Comment is not enhanced.
+
+[2024-12-18 21:51:05 #4 type] 
+Type social.Post is not enhanced.
+
+[2024-12-18 21:51:05 #5 type] 
+Type social.user is not enhanced.
+
+[2024-12-18 21:51:05 #6 store] 
+Database 'C:\Users\elsah\Desktop\SocialApp\objectdb\db\odbtest.odb' is closed by 2084@LAPTOP-RCQI758K
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-12-18 21:53:00 #1 store] 
+Database 'C:\Users\elsah\Desktop\SocialApp\objectdb\db\odbtest.odb' is opened by 17924@LAPTOP-RCQI758K
+
+[2024-12-18 21:53:00 #2 store] 
+Configuration path: C:\Users\elsah\Desktop\SocialApp\objectdb\objectdb.conf
+
+[2024-12-18 21:53:01 #3 type] 
+Type social.Comment is not enhanced.
+
+[2024-12-18 21:53:01 #4 type] 
+Type social.Post is not enhanced.
+
+[2024-12-18 21:53:01 #5 type] 
+Type social.user is not enhanced.
+
+[2024-12-18 21:53:01 #6 store] 
+Database 'C:\Users\elsah\Desktop\SocialApp\objectdb\db\odbtest.odb' is closed by 17924@LAPTOP-RCQI758K
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-12-18 21:53:04 #1 store] 
+Database 'C:\Users\elsah\Desktop\SocialApp\objectdb\db\odbtest.odb' is opened by 21016@LAPTOP-RCQI758K
+
+[2024-12-18 21:53:04 #2 store] 
+Configuration path: C:\Users\elsah\Desktop\SocialApp\objectdb\objectdb.conf
+
+[2024-12-18 21:53:05 #3 type] 
+Type social.Comment is not enhanced.
+
+[2024-12-18 21:53:05 #4 type] 
+Type social.Post is not enhanced.
+
+[2024-12-18 21:53:05 #5 type] 
+Type social.user is not enhanced.
+
+[2024-12-18 21:53:05 #6 store] 
+Database 'C:\Users\elsah\Desktop\SocialApp\objectdb\db\odbtest.odb' is closed by 21016@LAPTOP-RCQI758K
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-12-18 21:53:12 #1 store] 
+Database 'C:\Users\elsah\Desktop\SocialApp\objectdb\db\odbtest.odb' is opened by 13388@LAPTOP-RCQI758K
+
+[2024-12-18 21:53:12 #2 store] 
+Configuration path: C:\Users\elsah\Desktop\SocialApp\objectdb\objectdb.conf
+
+[2024-12-18 21:53:12 #3 type] 
+Type social.Comment is not enhanced.
+
+[2024-12-18 21:53:12 #4 type] 
+Type social.Post is not enhanced.
+
+[2024-12-18 21:53:12 #5 type] 
+Type social.user is not enhanced.
+
+[2024-12-18 21:53:12 #6 store] 
+Database 'C:\Users\elsah\Desktop\SocialApp\objectdb\db\odbtest.odb' is closed by 13388@LAPTOP-RCQI758K
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-12-18 21:53:22 #1 store] 
+Database 'C:\Users\elsah\Desktop\SocialApp\objectdb\db\odbtest.odb' is opened by 8536@LAPTOP-RCQI758K
+
+[2024-12-18 21:53:22 #2 store] 
+Configuration path: C:\Users\elsah\Desktop\SocialApp\objectdb\objectdb.conf
+
+[2024-12-18 21:53:22 #3 type] 
+Type social.Comment is not enhanced.
+
+[2024-12-18 21:53:22 #4 type] 
+Type social.Post is not enhanced.
+
+[2024-12-18 21:53:22 #5 type] 
+Type social.user is not enhanced.
+
+[2024-12-18 21:53:22 #6 store] 
+Database 'C:\Users\elsah\Desktop\SocialApp\objectdb\db\odbtest.odb' is closed by 8536@LAPTOP-RCQI758K
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-12-18 21:56:08 #1 store] 
+Database 'C:\Users\elsah\Desktop\SocialApp\objectdb\db\odbtest.odb' is opened by 12668@LAPTOP-RCQI758K
+
+[2024-12-18 21:56:08 #2 store] 
+Configuration path: C:\Users\elsah\Desktop\SocialApp\objectdb\objectdb.conf
+
+[2024-12-18 21:57:15 #3 store] 
+Database 'C:\Users\elsah\Desktop\SocialApp\objectdb\db\odbtest.odb' is closed by 12668@LAPTOP-RCQI758K
+
